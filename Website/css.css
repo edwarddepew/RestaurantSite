@@ -22,3 +22,11 @@
 		
 #formr {text-align: right;
 		margin-right:140px;}
+		
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+float: left;
+}
