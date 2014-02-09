@@ -1,0 +1,24 @@
+#para1 {width: 500px;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: beige;
+	}
+	
+#title1 { font-family: Arial;}
+
+#menu {	width:500px;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: beige;
+		}
+		
+#background {background-color: burlywood;}
+
+#image { width: 500px;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: beige;
+		}
+		
+#formr {text-align: right;
+		margin-right:140px;}
