@@ -1,16 +1,28 @@
-#para1 {width: 500px;
+#para1 {font-family: "Comic Sans MS", cursive, sans-serif;
+		width: 65%;
 		margin-left: auto;
 		margin-right: auto;
 		background-color: beige;
+				
 	}
 	
 #title1 { font-family: Arial;}
 
-#menu {	width:500px;
+#menu {	font-family: "Comic Sans MS", cursive, sans-serif;
+		width:400px;
+		margin-left: 15%;
+		margin-right: auto;
+		background-color: beige;
+		float:left;
+		
+		}
+		
+#menu2 {font-family: "Comic Sans MS", cursive, sans-serif;
+		width:400px;
 		margin-left: auto;
 		margin-right: auto;
 		background-color: beige;
-		}
+		float: left;}
 		
 #background {background-color: burlywood;}
 
@@ -23,10 +35,18 @@
 #formr {text-align: right;
 		margin-right:140px;}
 		
-ul
-{
-list-style-type:none;
-margin:0;
-padding:0;
-float: left;
-}
+ul		{list-style-type:none;
+		margin:0;
+		padding:0;
+		float: left;
+		}
+		
+img {
+    height: auto;
+    max-width: 100}
+	
+ol {list-style-type:none; }
+
+#nav {float: left;
+      }
+
