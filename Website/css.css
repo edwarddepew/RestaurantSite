@@ -27,6 +27,15 @@
 		background-color: beige;
 		float: left;}
 		
+#menu3{	font-family: Tahoma, Geneva, sans-serif;
+		width:600px;
+		margin-left: 15%;
+		margin-right: auto;
+		background-color: beige;
+		float:left;
+		
+		}
+		
 #background {background-color: burlywood;}
 
 #image { font-family: Tahoma, Geneva, sans-serif;
@@ -40,8 +49,8 @@
 		padding-left:50px;
 		}
 		
-#formr {text-align: right;
-		margin-right:140px;}
+#formr {	text-align: right;
+		margin-right: 220px;}
 		
 ul		{list-style-type:none;
 		margin:0;
